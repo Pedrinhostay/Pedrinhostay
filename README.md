@@ -1,5 +1,7 @@
-### Hi there 👋
+### Olá prazer eu sou o Pedro Miguel👋
 
+[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.app)
+![pedrinhostay Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinhostay&hide_progress=true)
 <!--
 **Pedrinhostay/Pedrinhostay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
