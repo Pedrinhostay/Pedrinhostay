@@ -20,4 +20,4 @@
 
 </div><br/>
 
-Apaixonado pela criação e pela experiencia do usuario (UX), com a programação eu vejo um mundo que posso ajudar outras pessoas.
+Melhorando cada dia mais as minhas stacks, em busca de uma opurtunidade de ingressar como desenvolvedor full-stack.
