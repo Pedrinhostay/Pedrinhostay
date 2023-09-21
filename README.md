@@ -1,9 +1,17 @@
-## Eu Sou o Pedro Miguel 👋
 
+<div align="center">
+  <img height="200" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif"/>
+</div>
+<h1 align="center">Olá Seja Bem Vindo👋</h1>
+
+
+#### 
+<h2 align="left">Sobre</h2>
+<p align="left">
+  Prazer meu nome é Pedro Miguel, tenho 19 anos e desde mais novo tenho um amor pela área de ux e ui, até que conheci a programação e vi que poderia fazer 
+  bem mais do que só criar um layout, desde então eu comecei a trilhar os meus estudo em busca de me tornar um profissional capacitado como fullstack.
+</p>
 [![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pedro-miguel.vercel.app/)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinhostay&layout=compact)
 
 
 
