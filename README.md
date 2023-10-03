@@ -10,7 +10,7 @@
 <h2 align="left">Sobre</h2>
 <p align="left">
   Prazer meu nome é Pedro Miguel, tenho 19 anos e desde mais novo tenho um amor pela área de ux e ui, até que conheci a programação e vi que poderia fazer 
-  bem mais do que só criar um layout, desde então eu comecei a trilhar os meus estudo em busca de me tornar um profissional capacitado como fullstack.
+  bem mais do que imaginava, desde então eu comecei a trilhar os meus estudos em busca de me tornar um profissional capacitado como fullstack.
 </p>
 
 
