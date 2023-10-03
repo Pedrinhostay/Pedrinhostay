@@ -29,5 +29,4 @@
 ###
 
 <h3 align="left">Objetivo:</h3>
-<p align="left">Meu maior Objetivo no momento é consolidar meus conhecimentos nas linguagens acima e aprimorar para o node e algumas outras funcionalidades para enfim me tornar 
-desenvolvedor front end</p>
+<p align="left">Meu maior Objetivo no momento é consolidar meus conhecimentos nas linguagens acima e por fim ingressar em uma equipe com os mesmos valores que o meu.</p>
