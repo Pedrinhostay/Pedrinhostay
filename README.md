@@ -4,15 +4,11 @@
 </div>
 <h1 align="center">Olá Seja Bem Vindo👋</h1>
 
-
-[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pedro-miguel.vercel.app/)
-
 ## Sobre
 <p align="left">
   Me chamo Pedro Miguel, sou Web Designer. Estou animado e em busca com a possibilidade de contribuir com um time, unindo minha bagagem técnica com uma abordagem centrada no usuário.
 
 Tenho conhecimentos em UI/UX, prototipação com Figma, testes de usabilidade e metodologias ágeis. Sou curioso, autodidata e adoro trabalhar em equipe — especialmente em ambientes colaborativos e movidos por propósito.
 
-  
 </p>
 
