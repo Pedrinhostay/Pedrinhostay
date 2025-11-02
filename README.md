@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Pedro Miguel]
+# 👋 Olá! Eu sou Pedro Miguel
 
 <div align="center">
   
@@ -61,7 +61,6 @@ Estou documentando minha jornada de criar 7 projetos completos, do design à imp
 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ### Front-end
@@ -85,19 +84,6 @@ Estou documentando minha jornada de criar 7 projetos completos, do design à imp
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Destaques dos Projetos
 
@@ -114,10 +100,10 @@ Estou documentando minha jornada de criar 7 projetos completos, do design à imp
 
 Estou sempre aberto para novos projetos, colaborações e oportunidades!
 
-- 💼 LinkedIn: [Pedro Miguel](pedrostaay.com.br)
+- 💼 LinkedIn: [Pedro Miguel](https://www.linkedin.com/in/pedromiguelg)
 - 🌐 Portfolio: [pedrostaay.com.br](pedrostaay.com.br)
 - 📧 Email: pedrostaay@hotmail.com
-- 📱 WhatsApp: [+55 14 99789-7239](link)
+- 📱 WhatsApp: [+55 14 99789-7239](https://wa.me/5514997897239?text=Ol%C3%A1%20Pedro!%20Vim%20pelo%20Instagram%20e%20quero%20solicitar%20um%20or%C3%A7amento%20para%20um%20projeto%20de%20design.)
 
 ---
 
@@ -139,9 +125,7 @@ Acredito que todo projeto deve equilibrar:
 
 <div align="center">
 
-### ⭐ Se gostou dos projetos, deixe uma estrela!
-
-![Visitor Count](https://profile-counter.glitch.me/seuusuario/count.svg)
+###  Se gostou dos projetos, me siga para mais!
 
 **Obrigado pela visita!** 🚀
 
