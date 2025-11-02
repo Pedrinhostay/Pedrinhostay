@@ -1,141 +1,148 @@
+# 👋 Olá! Eu sou [Pedro Miguel]
+
 <div align="center">
-  <img height="200" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif"/>
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Designer%20%26%20Developer&fontSize=40&fontAlignY=35&animation=twinkling)
+
+**Designer & Web Designer**  
+Transformando ideias em experiências digitais impactantes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](seu-site)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+
 </div>
-
-<h1 align="center">Olá, Seja Bem-Vindo! 👋</h1>
-
-<h3 align="center">Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas</h3>
-
-<p align="center">
-  <a href="mailto:pedromglcomercial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/5514997897239"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou **Pedro Miguel**, desenvolvedor apaixonado por criar soluções tecnológicas que fazem a diferença. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (3º semestre) e com experiência prática em desenvolvimento full stack e automação inteligente.
-
-💡 **O que me move:** Transformar ideias em produtos funcionais, explorar novas tecnologias e resolver problemas complexos de forma criativa.
-
-🎯 **Foco atual:** Desenvolvimento de aplicações web modernas, integração de APIs de IA e automação de processos com N8N.
-
----
-
-## 💼 Experiência Profissional
-
-### 🏢 **Desenvolvedor Full Stack** | Corretora
-*Desenvolvimento de Sistema Completo de Gestão de Leads*
-
-- 🎨 Desenvolvimento integral de layout responsivo com **React.js** + IA
-- 📊 Implementação de sistema **Kanban** para gestão de pipeline
-- 🤖 Automação de agente de IA com **N8N** para qualificação de leads
-- 🔗 Integração completa com APIs RESTful e sistemas externos
-
-### 🛠️ **Suporte Técnico & CX** | WebRenave
-- 📞 Qualificação de leads e atendimento técnico
-- 🔄 Ponte entre negócio e TI - levantamento de requisitos
-- 📋 Participação em reuniões de alinhamento e implementação
-
----
-
-## 🛠️ Tech Stack
-
-### **Front-end**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Back-end & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### **Banco de Dados**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Inteligência Artificial**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### **Ferramentas & Design**
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🎓 Formação & Certificações
-
-🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Descomplica (3º Semestre)
-
-📜 **Certificações:**
-- Cursos Alura - Desenvolvimento Web
-- OneBitCode - Full Stack
-- Hackathon de CSS & HTML
-- Certificações Acadêmicas em Desenvolvimento
-
----
-
-## 🌟 Diferenciais
+Sou apaixonado por criar experiências digitais que combinam **design impecável** com **código limpo**. Minha abordagem é do Figma ao Deploy, dominando todo o ciclo de desenvolvimento.
 
 ```javascript
-const pedroMiguel = {
-  code: ["JavaScript", "HTML", "CSS", "React", "Node.js"],
-  tools: ["Git", "N8N", "Figma", "VS Code"],
-  architecture: ["REST APIs", "Microservices", "Responsive Design"],
-  currentFocus: "Automação com IA e Desenvolvimento Full Stack",
-  funFact: "Adoro transformar café em código! ☕💻"
+const desenvolvedor = {
+  nome: "Pedro Miguel",
+  localização: "Vera Cruz Sp, Brasil",
+  foco: ["UI/UX Design", "Front-end Development", "WordPress"],
+  ferramentas: {
+    design: ["Figma", "Photoshop"],
+    code: ["HTML", "CSS", "JavaScript", "React"],
+    cms: ["WordPress", "Elementor", "Framer"]
+  },
+  desafioAtual: "7 projetos em 7 dias - Do Figma ao Deploy"
 };
 ```
 
-✅ Experiência prática com projetos reais em produção  
-✅ Especialização em automação inteligente com N8N e APIs de IA  
-✅ Conhecimento em UI/UX e prototipação com Figma  
-✅ Metodologias ágeis e trabalho colaborativo  
-✅ Autodidata e sempre em busca de novos desafios  
+---
+
+## 🎯 Saga: 7 Projetos em 7 Dias
+
+Estou documentando minha jornada de criar 7 projetos completos, do design à implementação, em 7 dias consecutivos.
+
+### Projetos Concluídos:
+
+| # | Projeto | Stack | Status | Demo | Artigo |
+|---|---------|-------|--------|------|--------|
+| 1 | 📸 Landing Page Fotografia | HTML/CSS/JS/GSAP | ✅ | [Ver Demo](link) | [LinkedIn](link) |
+| 2 | 💰 Dashboard Fintech | HTML/CSS/JS/Chart.js | 🔄 | Em breve | - |
+| 3 | 👓 E-commerce Óculos | WordPress/Elementor | 🔄 | Em breve | - |
+| 4 | 🚀 SaaS B2B Landing | HTML/CSS/JS | ⏳ | Em breve | - |
+| 5 | 📱 App Mobile Design | Figma/Framer | ⏳ | Em breve | - |
+| 6 | 🎨 Portfolio Criativo | React/Next.js | ⏳ | Em breve | - |
+| 7 | 💼 Case Study Completo | Full Stack | ⏳ | Em breve | - |
+
+**Legenda:** ✅ Concluído | 🔄 Em andamento | ⏳ Aguardando
+
+---
+
+## 💻 Stack Tecnológica
+
+<div align="center">
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### CMS & No-Code
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
-## 🎯 Objetivos 2025
+## 🎯 Destaques dos Projetos
 
-- [ ] Contribuir com projetos open source
-- [ ] Aprofundar conhecimentos em TypeScript
-- [ ] Dominar arquiteturas de microsserviços
-- [ ] Criar conteúdo técnico sobre automação com IA
-- [ ] Participar de mais hackathons e comunidades tech
+### 📸 Landing Page Fotografia
+> Interface imersiva para portfólio fotográfico com animações GSAP e lazy loading otimizado.
 
----
+**Tecnologias:** HTML5, CSS3, JavaScript, GSAP  
+**Destaques:** Grid assimétrico, animações on-scroll, performance 98/100  
+[Ver Projeto →](link-repositorio)
 
-## 💬 Vamos Conversar?
 
-Estou sempre aberto a novos desafios, colaborações e oportunidades de aprendizado!
 
-📧 **Email:** pedromglcomercial@gmail.com  
-📱 **WhatsApp:** (14) 99789-7239  
-📍 **Localização:** Marília - SP
+## 🤝 Vamos Conversar?
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat-square&label=Visitantes"/>
-</div>
+Estou sempre aberto para novos projetos, colaborações e oportunidades!
+
+- 💼 LinkedIn: [Pedro Miguel](pedrostaay.com.br)
+- 🌐 Portfolio: [pedrostaay.com.br](pedrostaay.com.br)
+- 📧 Email: pedrostaay@hotmail.com
+- 📱 WhatsApp: [+55 14 99789-7239](link)
 
 ---
 
+## 📈 Filosofia de Trabalho
+
+```
+"Design não é apenas como parece e como se sente.
+Design é como funciona."
+- Steve Jobs
+```
+
+Acredito que todo projeto deve equilibrar:
+- ✨ **Estética**: Design que encanta
+- ⚡ **Performance**: Velocidade que engaja  
+- 🎯 **Conversão**: Resultados que importam
+- 📱 **Acessibilidade**: Inclusão para todos
+
+---
+
 <div align="center">
-  <i>⭐ From <a href="https://github.com/SEU_USUARIO">Pedro Miguel</a> with ❤️</i>
+
+### ⭐ Se gostou dos projetos, deixe uma estrela!
+
+![Visitor Count](https://profile-counter.glitch.me/seuusuario/count.svg)
+
+**Obrigado pela visita!** 🚀
+
 </div>
