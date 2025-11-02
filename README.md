@@ -2,7 +2,6 @@
 
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Designer%20%26%20Developer&fontSize=40&fontAlignY=35&animation=twinkling)
 
 **Designer & Web Designer**  
 Transformando ideias em experiências digitais impactantes
