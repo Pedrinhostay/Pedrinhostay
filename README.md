@@ -84,16 +84,6 @@ Estou documentando minha jornada de criar 7 projetos completos, do design à imp
 ---
 
 
-## 🎯 Destaques dos Projetos
-
-### 📸 Landing Page Fotografia
-> Interface imersiva para portfólio fotográfico com animações GSAP e lazy loading otimizado.
-
-**Tecnologias:** HTML5, CSS3, JavaScript, GSAP  
-**Destaques:** Grid assimétrico, animações on-scroll, performance 98/100  
-[Ver Projeto →](link-repositorio)
-
-
 
 ## 🤝 Vamos Conversar?
 
