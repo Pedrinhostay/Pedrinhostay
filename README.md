@@ -4,9 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=220&section=header&text=Pedro%20Miguel%20Gomes%20de%20Lima&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Dados%20%7C%20Business%20Intelligence%20%7C%20Automação%20com%20IA&descAlignY=58&descSize=16" width="100%" />
 
-<a href="https://github.com/SEU_USUARIO">
+<!-- <a href="https://github.com/SEU_USUARIO">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decisões;Construindo+dashboards+e+automações;Sempre+aprendendo%2C+testando+e+melhorando" alt="Mensagem animada" />
-</a>
+</a> -->
 
 <p>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
