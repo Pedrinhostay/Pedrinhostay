@@ -112,7 +112,6 @@ GitHub Analytics
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações%20do%20perfil&color=00B4D8&style=flat" alt="Visualizações do perfil" />
 
 </div>
 
