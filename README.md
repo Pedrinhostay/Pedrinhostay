@@ -104,16 +104,6 @@ Dica: substitua os projetos acima pelos seus repositórios reais. Mesmo projetos
 
 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0B1220&title_color=00B4D8&icon_color=00B4D8&text_color=CBD5E1&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0B1220&title_color=00B4D8&text_color=CBD5E1&langs_count=8" alt="Linguagens mais usadas" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0B1220&ring=00B4D8&fire=F59E0B&currStreakLabel=00B4D8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-
-</div>
 
 <div align="center">
 
